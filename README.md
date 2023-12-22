@@ -1,1 +1,3 @@
 # edu2
+
+defualt:
